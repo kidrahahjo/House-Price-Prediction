@@ -1,5 +1,5 @@
 {
-  "10%": [
+  "5%": [
     "OverallQual",
     "GrLivArea",
     "GarageCars",
@@ -24,8 +24,18 @@
     "LotFrontage",
     "WoodDeckSF",
     "2ndFlrSF",
+    "OpenPorchSF",
+    "BsmtExposure",
+    "HalfBath",
+    "LotArea",
+    "LotShape",
+    "CentralAir",
+    "Electrical",
+    "PavedDrive",
+    "BsmtFullBath",
     "SalePrice"
   ],
-  "val_mean_squared_log_error": 0.0204,
-  "submit_mean_squared_log_error": 0.14981
+  "val_mean_squared_log_error": 0.019,
+  "submit_mean_squared_log_error": 0.14915,
+  "val_r_squared": 0.88
 }
