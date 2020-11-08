@@ -23,6 +23,7 @@
     "GarageType",
     "LotFrontage",
     "WoodDeckSF",
-    "2ndFlrSF"
+    "2ndFlrSF",
+    "SalePrice"
   ]
 }

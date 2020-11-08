@@ -1,5 +1,5 @@
 {
-  "5%": [
+  "2%": [
     "OverallQual",
     "GrLivArea",
     "GarageCars",
@@ -32,6 +32,15 @@
     "CentralAir",
     "Electrical",
     "PavedDrive",
-    "BsmtFullBath"
+    "BsmtFullBath",
+    "RoofStyle",
+    "BsmtUnfSF",
+    "SaleCondition",
+    "Neighborhood",
+    "HouseStyle",
+    "BedroomAbvGr",
+    "MSZoning",
+    "GarageCond",
+    "SalePrice"
   ]
 }
