@@ -34,5 +34,6 @@
     "PavedDrive",
     "BsmtFullBath",
     "SalePrice"
-  ]
+  ],
+  "val_mean_squared_log_error": 0.8711809143597379
 }
