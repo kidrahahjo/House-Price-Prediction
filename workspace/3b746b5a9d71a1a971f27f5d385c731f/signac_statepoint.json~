@@ -1,32 +1,33 @@
 {
   "10%": [
+    "SalePrice",
     "OverallQual",
     "GrLivArea",
     "GarageCars",
     "ExterQual",
     "GarageArea",
     "TotalBsmtSF",
-    "BsmtQual",
     "1stFlrSF",
+    "BsmtQual",
     "KitchenQual",
     "FullBath",
     "TotRmsAbvGrd",
     "YearBuilt",
-    "GarageFinish",
     "YearRemodAdd",
-    "GarageYrBlt",
     "MasVnrArea",
+    "GarageYrBlt",
     "Fireplaces",
+    "GarageFinish",
+    "GarageType",
     "HeatingQC",
     "BsmtFinSF1",
     "Foundation",
-    "GarageType",
     "LotFrontage",
     "WoodDeckSF",
-    "2ndFlrSF",
-    "SalePrice"
+    "2ndFlrSF"
   ],
-  "val_mean_squared_log_error": 0.028,
-  "submit_mean_squared_log_error": 0.14981,
-  "val_r_squared": 0.72
+  "No of features": 25,
+  "random_forest_val_r_squared": 0.8672161407142261,
+  "random_forest_val_mean_squared_log_error": 0.025505347087792504,
+  "random_forest_submit_mean_squared_log_error": 0.14915
 }

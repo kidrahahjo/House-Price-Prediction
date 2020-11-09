@@ -1,2 +1,3 @@
-project = dataset_per_rsquared
+project = project-hyper-params
+workspace_dir = workspace
 schema_version = 1
