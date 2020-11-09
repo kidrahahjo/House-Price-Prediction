@@ -12,7 +12,7 @@ def get_job(key):
 def produce_init(filename):
     """Prepare initial data for modeling."""
     training_dataset = pd.read_csv(f'../Modified Data/{filename}')
-    test_dataset = pd.read_csv(f'../Data/test.csv')
+    test_dataset = pd.read_csv(f'../Raw Data/test.csv')
     features = list(training_dataset.columns)
     features.remove('SalePrice')
     predict_feature = ['SalePrice']
